@@ -50,7 +50,7 @@
       // return;
     }
 
-  }*//
+  }*/
 
 /*  function resetSound(event) {
 
